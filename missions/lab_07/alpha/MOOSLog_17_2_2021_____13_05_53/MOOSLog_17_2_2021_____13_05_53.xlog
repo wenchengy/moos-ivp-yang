@@ -1,0 +1,435 @@
+0.784           PLOGGER_STATUS       pLogger         AppErrorFlag=false,Uptime=0.783776,cpuload=0.8959,memory_kb=4664,memory_max_kb=4816,MOOSName=pLogger,Publishing="LOGGER_DIRECTORY,",Subscribing="BHV_SETTINGS,IVPHELM_LIFE_EVENT,LOGGER_RESTART,MOOS_DEBUG,MOOS_SYSTEM,PLOGGER_CMD,REPORT,",LogAuxSrc=true 
+1.802           DB_VARSUMMARY        MOOSDB_alpha    AIS_REPORT           07:59:59.000         (write pending)      0.0 Hz ~  
+AIS_REPORT_LOCAL     07:59:59.000         (write pending)      0.0 Hz ~  
+APPCAST              13:05:55.063         pMarineViewer        2.2 Hz S  proc=pMarineViewer!@#i...
+APPCAST_REQ          13:05:55.069         pMarineViewer        0.0 Hz S  node=all,app=all,durat...
+APPCAST_REQ_ALL      13:05:55.069         pMarineViewer        0.0 Hz S  node=all,app=all,durat...
+AUX_MODE             07:59:59.000         (write pending)      0.0 Hz ~  
+BHV_SETTINGS         07:59:59.000         (write pending)      0.0 Hz ~  
+BUOYANCY_CONTROL     07:59:59.000         (write pending)      0.0 Hz ~  
+BUOYANCY_RATE        07:59:59.000         (write pending)      0.0 Hz ~  
+CONST_SPD_RESET      07:59:59.000         (write pending)      0.0 Hz ~  
+CURRENT_X            07:59:59.000         (write pending)      0.0 Hz ~  
+CURRENT_Y            07:59:59.000         (write pending)      0.0 Hz ~  
+DB_CLIENTS           13:05:55.070         MOOSDB_alpha         0.0 Hz S  pNodeReporter,uProcess...
+DB_EVENT             13:05:54.586         MOOSDB_alpha         3.7 Hz S  connected=pNodeReporter
+DB_QOS               13:05:53.065         MOOSDB#1             0.0 Hz S  
+DB_RWSUMMARY         13:05:53.065         MOOSDB#1             0.0 Hz S  
+DB_TIME              13:05:55.069         MOOSDB_alpha         0.0 Hz D  1613538355.1
+DB_UPTIME            13:05:55.069         MOOSDB_alpha         0.0 Hz D  2.0
+DB_VARSUMMARY        13:05:53.065         MOOSDB#1             0.0 Hz S  
+DEPLOY               13:05:54.530         pHelmIvP             0.0 Hz S  false
+DESIRED_DEPTH        07:59:59.000         (write pending)      0.0 Hz ~  
+DESIRED_ELEVATOR     07:59:59.000         (write pending)      0.0 Hz ~  
+DESIRED_HEADING      13:05:54.781         pHelmIvP             0.0 Hz D  0.0
+DESIRED_RUDDER       13:05:54.382         pMarinePID           0.0 Hz D  0.0
+DESIRED_SPEED        13:05:54.781         pHelmIvP             0.0 Hz D  0.0
+DESIRED_THRUST       13:05:54.382         pMarinePID           0.0 Hz D  0.0
+DESIRED_THRUST_L     07:59:59.000         (write pending)      0.0 Hz ~  
+DESIRED_THRUST_R     07:59:59.000         (write pending)      0.0 Hz ~  
+DRIFT_VECTOR         07:59:59.000         (write pending)      0.0 Hz ~  
+DRIFT_VECTOR_ADD     07:59:59.000         (write pending)      0.0 Hz ~  
+DRIFT_VECTOR_MULT    07:59:59.000         (write pending)      0.0 Hz ~  
+DRIFT_X              07:59:59.000         (write pending)      0.0 Hz ~  
+DRIFT_Y              07:59:59.000         (write pending)      0.0 Hz ~  
+EXITED_NORMALLY      07:59:59.000         (write pending)      0.0 Hz ~  
+GRID_CONFIG          07:59:59.000         (write pending)      0.0 Hz ~  
+GRID_DELTA           07:59:59.000         (write pending)      0.0 Hz ~  
+HELM_MAP_CLEAR       13:05:55.063         pMarineViewer        0.0 Hz D  0.0
+IVPHELM_ALLSTOP      13:05:54.781         pHelmIvP             0.0 Hz S  ManualOverride
+IVPHELM_CPU          13:05:55.036         pHelmIvP             0.0 Hz D  0.9
+IVPHELM_DOMAIN       13:05:54.531         pHelmIvP             0.0 Hz S  speed,0,4,41:course,0,...
+IVPHELM_LIFE_EVENT   07:59:59.000         (write pending)      0.0 Hz ~  
+IVPHELM_MODESET      13:05:54.531         pHelmIvP             0.0 Hz S  
+IVPHELM_REGISTER     13:05:54.531         pHelmIvP             11.6Hz S  SPEED_UPDATE
+IVPHELM_REJOURNAL    07:59:59.000         (write pending)      0.0 Hz ~  
+IVPHELM_STATE        13:05:55.036         pHelmIvP             0.0 Hz S  PARK
+IVPHELM_SUMMARY      07:59:59.000         (write pending)      0.0 Hz ~  
+LOAD_WARNING         07:59:59.000         (write pending)      0.0 Hz ~  
+LOGGER_DIRECTORY     13:05:53.921         pLogger              0.0 Hz S  ./MOOSLog_17_2_2021___...
+LOGGER_RESTART       07:59:59.000         (write pending)      0.0 Hz ~  
+MOOS_DEBUG           13:05:54.781         pHelmIvP             0.0 Hz S  pHelmIvP AllStop: Manu...
+MOOS_MANUAL_OVERIDE  07:59:59.000         (write pending)      0.0 Hz ~  
+MOOS_MANUAL_OVERRIDE 07:59:59.000         (write pending)      0.0 Hz ~  
+MOOS_SYSTEM          07:59:59.000         (write pending)      0.0 Hz ~  
+MVIEWER_LCLICK       07:59:59.000         (write pending)      0.0 Hz ~  
+MVIEWER_RCLICK       07:59:59.000         (write pending)      0.0 Hz ~  
+NAV_DEPTH            13:05:54.873         uSimMarine           2.0 Hz D  0.0
+NAV_HEADING          13:05:54.873         uSimMarine           2.0 Hz D  180.0
+NAV_HEADING_OVER_GROUND 13:05:54.873         uSimMarine           2.0 Hz D  0.0
+NAV_LAT              13:05:54.873         uSimMarine           2.0 Hz D  43.8
+NAV_LONG             13:05:54.873         uSimMarine           2.0 Hz D  -70.3
+NAV_PITCH            13:05:54.873         uSimMarine           2.0 Hz D  0.0
+NAV_SPEED            13:05:54.873         uSimMarine           2.0 Hz D  0.0
+NAV_SPEED_OVER_GROUND 13:05:54.873         uSimMarine           2.0 Hz D  0.0
+NAV_TRAJECTORY       07:59:59.000         (write pending)      0.0 Hz ~  
+NAV_X                13:05:54.873         uSimMarine           2.0 Hz D  0.0
+NAV_Y                13:05:54.873         uSimMarine           2.0 Hz D  -20.0
+NAV_YAW              13:05:54.873         uSimMarine           2.0 Hz D  -3.1
+NAV_Z                13:05:54.873         uSimMarine           2.0 Hz D  -0.0
+NODE_REPORT          07:59:59.000         (write pending)      0.0 Hz ~  
+NODE_REPORT_LOCAL    07:59:59.000         (write pending)      0.0 Hz ~  
+OBSTACLE_HIT         07:59:59.000         (write pending)      0.0 Hz ~  
+PHELMIVP_ITER_GAP    13:05:55.036         pHelmIvP             0.0 Hz D  1.0
+PHELMIVP_ITER_LEN    13:05:55.036         pHelmIvP             0.0 Hz D  0.0
+PHELMIVP_PID         13:05:54.529         pHelmIvP             0.0 Hz D  6807.0
+PHELMIVP_STATUS      13:05:54.781         pHelmIvP             0.0 Hz S  AppErrorFlag=false,Upt...
+PHI_HOST_IP          07:59:59.000         (write pending)      0.0 Hz ~  
+PID_VERBOSE          07:59:59.000         (write pending)      0.0 Hz ~  
+PLOGGER_CMD          13:05:54.531         pHelmIvP             0.0 Hz S  COPY_FILE_REQUEST = al...
+PLOGGER_STATUS       13:05:54.053         pLogger              0.0 Hz S  AppErrorFlag=false,Upt...
+PMARINEPID_ITER_GAP  13:05:55.045         pMarinePID           9.9 Hz D  1.1
+PMARINEPID_ITER_LEN  13:05:55.045         pMarinePID           9.9 Hz D  0.0
+PMARINEPID_STATUS    13:05:54.382         pMarinePID           0.0 Hz S  AppErrorFlag=false,Upt...
+PMARINEVIEWER_ITER_LEN 13:05:55.063         pMarineViewer        0.0 Hz D  0.0
+PMARINEVIEWER_PID    13:05:54.812         pMarineViewer        0.0 Hz D  6817.0
+PMARINEVIEWER_STATUS 13:05:55.063         pMarineViewer        0.0 Hz S  AppErrorFlag=false,Upt...
+PMV_CENTER           07:59:59.000         (write pending)      0.0 Hz ~  
+PMV_CLEAR            07:59:59.000         (write pending)      0.0 Hz ~  
+PMV_CONNECT          13:05:55.063         pMarineViewer        0.0 Hz D  0.0
+PMV_MENU_CONTEXT     07:59:59.000         (write pending)      0.0 Hz ~  
+PNODEREPORTER_STATUS 07:59:59.000         (write pending)      0.0 Hz ~  
+PNR_PAUSE            07:59:59.000         (write pending)      0.0 Hz ~  
+PROC_WATCH_EVENT     13:05:54.879         uProcessWatch        0.0 Hz S  Noted to be present: [...
+PROC_WATCH_TIME_WARP 13:05:54.879         uProcessWatch        0.0 Hz D  1.0
+REGION_INFO          13:05:55.063         pMarineViewer        0.0 Hz S  lat_datum=43.8253, lon...
+REPORT               07:59:59.000         (write pending)      0.0 Hz ~  
+RESTART_HELM         07:59:59.000         (write pending)      0.0 Hz ~  
+RETURN               13:05:54.530         pHelmIvP             0.0 Hz S  false
+ROTATE_SPEED         07:59:59.000         (write pending)      0.0 Hz ~  
+SIMULATION_MODE      13:05:54.873         uSimMarine           2.0 Hz S  TRUE
+SPD                  07:59:59.000         (write pending)      0.0 Hz ~  
+SPEED_FACTOR         07:59:59.000         (write pending)      0.0 Hz ~  
+SPEED_UPDATE         07:59:59.000         (write pending)      0.0 Hz ~  
+THRUST_MODE_DIFFERENTIAL 07:59:59.000         (write pending)      0.0 Hz ~  
+THRUST_MODE_REVERSE  07:59:59.000         (write pending)      0.0 Hz ~  
+TRAIL_RESET          07:59:59.000         (write pending)      0.0 Hz ~  
+TRIM_CONTROL         07:59:59.000         (write pending)      0.0 Hz ~  
+TRUE_X               13:05:54.873         uSimMarine           2.0 Hz D  0.0
+TRUE_Y               13:05:54.873         uSimMarine           2.0 Hz D  -20.0
+USIMMARINE_ITER_GAP  13:05:54.873         uSimMarine           0.0 Hz D  1.0
+USIMMARINE_ITER_LEN  13:05:54.873         uSimMarine           2.0 Hz D  0.0
+USIMMARINE_STATUS    13:05:54.372         uSimMarine           0.0 Hz S  AppErrorFlag=false,Upt...
+USM_BUOYANCY_RATE    07:59:59.000         (write pending)      0.0 Hz ~  
+USM_DRIFT_SUMMARY    13:05:54.372         uSimMarine           0.0 Hz S  ang=0, mag=0, xmag=0, ...
+USM_FORCE_THETA      07:59:59.000         (write pending)      0.0 Hz ~  
+USM_FORCE_VECTOR     07:59:59.000         (write pending)      0.0 Hz ~  
+USM_FORCE_VECTOR_ADD 07:59:59.000         (write pending)      0.0 Hz ~  
+USM_FORCE_VECTOR_MULT 07:59:59.000         (write pending)      0.0 Hz ~  
+USM_FORCE_X          07:59:59.000         (write pending)      0.0 Hz ~  
+USM_FORCE_Y          07:59:59.000         (write pending)      0.0 Hz ~  
+USM_FSUMMARY         13:05:54.372         uSimMarine           0.0 Hz S  ang=0, mag=0, xmag=0, ...
+USM_RESET            07:59:59.000         (write pending)      0.0 Hz ~  
+USM_SIM_PAUSED       07:59:59.000         (write pending)      0.0 Hz ~  
+USM_WATER_DEPTH      07:59:59.000         (write pending)      0.0 Hz ~  
+VIEW_CIRCLE          07:59:59.000         (write pending)      0.0 Hz ~  
+VIEW_COMMS_PULSE     07:59:59.000         (write pending)      0.0 Hz ~  
+VIEW_GRID            07:59:59.000         (write pending)      0.0 Hz ~  
+VIEW_MARKER          07:59:59.000         (write pending)      0.0 Hz ~  
+VIEW_POINT           07:59:59.000         (write pending)      0.0 Hz ~  
+VIEW_POLYGON         07:59:59.000         (write pending)      0.0 Hz ~  
+VIEW_RANGE_PULSE     07:59:59.000         (write pending)      0.0 Hz ~  
+VIEW_SEGLIST         07:59:59.000         (write pending)      0.0 Hz ~  
+VIEW_SEGLR           07:59:59.000         (write pending)      0.0 Hz ~  
+VIEW_VECTOR          07:59:59.000         (write pending)      0.0 Hz ~  
+VIEW_WEDGE           07:59:59.000         (write pending)      0.0 Hz ~  
+WATER_DEPTH          07:59:59.000         (write pending)      0.0 Hz ~  
+WPT_STAT             07:59:59.000         (write pending)      0.0 Hz ~  
+WPT_UPDATE           07:59:59.000         (write pending)      0.0 Hz ~  
+ 
+1.802           DB_RWSUMMARY         MOOSDB_alpha    pNodeReporter=APPCAST_REQ:AUX_MODE:IVPHELM_ALLSTOP:IVPHELM_STATE:IVPHELM_SUMMARY:LOAD_WARNING:NAV_DEPTH:NAV_HEADING:NAV_HEADING_OVER_GROUND:NAV_LAT:NAV_LONG:NAV_PITCH:NAV_SPEED:NAV_SPEED_OVER_GROUND:NAV_TRAJECTORY:NAV_X:NAV_Y:NAV_YAW:NAV_Z:PNR_PAUSE:THRUST_MODE_REVERSE&,uProcessWatch=APPCAST_REQ:DB_CLIENTS:EXITED_NORMALLY:PHELMIVP_STATUS:PLOGGER_STATUS:PMARINEPID_STATUS:PMARINEVIEWER_STATUS:PNODEREPORTER_STATUS:USIMMARINE_STATUS&PROC_WATCH_EVENT:PROC_WATCH_TIME_WARP,pMarineViewer=APPCAST:APPCAST_REQ:GRID_CONFIG:GRID_DELTA:MVIEWER_LCLICK:MVIEWER_RCLICK:NODE_REPORT:NODE_REPORT_LOCAL:PHI_HOST_IP:PMV_CENTER:PMV_CLEAR:PMV_MENU_CONTEXT:RETURN:TRAIL_RESET:VIEW_CIRCLE:VIEW_COMMS_PULSE:VIEW_GRID:VIEW_MARKER:VIEW_POINT:VIEW_POLYGON:VIEW_RANGE_PULSE:VIEW_SEGLIST:VIEW_SEGLR:VIEW_VECTOR:VIEW_WEDGE:WPT_STAT&APPCAST:APPCAST_REQ:APPCAST_REQ_ALL:HELM_MAP_CLEAR:PMARINEVIEWER_ITER_LEN:PMARINEVIEWER_PID:PMARINEVIEWER_STATUS:PMV_CONNECT:REGION_INFO,pHelmIvP=AIS_REPORT:AIS_REPORT_LOCAL:APPCAST_REQ:CONST_SPD_RESET:DB_CLIENTS:DEPLOY:HELM_MAP_CLEAR:IVPHELM_REJOURNAL:IVPHELM_STATE:MOOS_MANUAL_OVERIDE:MOOS_MANUAL_OVERRIDE:NAV_DEPTH:NAV_HEADING:NAV_SPEED:NAV_X:NAV_Y:NODE_REPORT:NODE_REPORT_LOCAL:RESTART_HELM:RETURN:SPD:SPEED_UPDATE:WPT_UPDATE&APPCAST:DEPLOY:DESIRED_HEADING:DESIRED_SPEED:IVPHELM_ALLSTOP:IVPHELM_CPU:IVPHELM_DOMAIN:IVPHELM_MODESET:IVPHELM_REGISTER:IVPHELM_STATE:MOOS_DEBUG:PHELMIVP_ITER_GAP:PHELMIVP_ITER_LEN:PHELMIVP_PID:PHELMIVP_STATUS:PLOGGER_CMD:RETURN,pMarinePID=APPCAST_REQ:DESIRED_DEPTH:DESIRED_HEADING:DESIRED_SPEED:MOOS_MANUAL_OVERIDE:MOOS_MANUAL_OVERRIDE:NAV_DEPTH:NAV_HEADING:NAV_PITCH:NAV_SPEED:NAV_YAW:PID_VERBOSE:SPEED_FACTOR&APPCAST:DESIRED_RUDDER:DESIRED_THRUST:MOOS_DEBUG:PMARINEPID_ITER_GAP:PMARINEPID_ITER_LEN:PMARINEPID_STATUS,uSimMarine=APPCAST_REQ:BUOYANCY_CONTROL:BUOYANCY_RATE:CURRENT_X:CURRENT_Y:DESIRED_ELEVATOR:DESIRED_RUDDER:DESIRED_THRUST:DESIRED_THRUST_L:DESIRED_THRUST_R:DRIFT_VECTOR:DRIFT_VECTOR_ADD:DRIFT_VECTOR_MULT:DRIFT_X:DRIFT_Y:OBSTACLE_HIT:ROTATE_SPEED:THRUST_MODE_DIFFERENTIAL:THRUST_MODE_REVERSE:TRIM_CONTROL:USM_BUOYANCY_RATE:USM_FORCE_THETA:USM_FORCE_VECTOR:USM_FORCE_VECTOR_ADD:USM_FORCE_VECTOR_MULT:USM_FORCE_X:USM_FORCE_Y:USM_RESET:USM_SIM_PAUSED:USM_WATER_DEPTH:WATER_DEPTH&APPCAST:NAV_DEPTH:NAV_HEADING:NAV_HEADING_OVER_GROUND:NAV_LAT:NAV_LONG:NAV_PITCH:NAV_SPEED:NAV_SPEED_OVER_GROUND:NAV_X:NAV_Y:NAV_YAW:NAV_Z:SIMULATION_MODE:TRUE_X:TRUE_Y:USIMMARINE_ITER_GAP:USIMMARINE_ITER_LEN:USIMMARINE_STATUS:USM_DRIFT_SUMMARY:USM_FSUMMARY,pLogger=AIS_REPORT:AIS_REPORT_LOCAL:APPCAST_REQ:BHV_SETTINGS:BUOYANCY_CONTROL:BUOYANCY_RATE:CURRENT_X:CURRENT_Y:DB_CLIENTS:DB_EVENT:DB_QOS:DB_RWSUMMARY:DB_TIME:DB_UPTIME:DB_VARSUMMARY:DESIRED_DEPTH:DESIRED_ELEVATOR:DESIRED_HEADING:DESIRED_RUDDER:DESIRED_SPEED:DESIRED_THRUST:DESIRED_THRUST_L:DESIRED_THRUST_R:DRIFT_VECTOR:DRIFT_VECTOR_ADD:DRIFT_VECTOR_MULT:DRIFT_X:DRIFT_Y:HELM_MAP_CLEAR:IVPHELM_LIFE_EVENT:IVPHELM_REGISTER:IVPHELM_REJOURNAL:LOGGER_DIRECTORY:LOGGER_RESTART:MOOS_DEBUG:MOOS_MANUAL_OVERIDE:MOOS_MANUAL_OVERRIDE:MOOS_SYSTEM:NAV_DEPTH:NAV_HEADING:NAV_PITCH:NAV_SPEED:NAV_YAW:NODE_REPORT:NODE_REPORT_LOCAL:OBSTACLE_HIT:PID_VERBOSE:PLOGGER_CMD:PLOGGER_STATUS:REPORT:RESTART_HELM:ROTATE_SPEED:SPEED_FACTOR:THRUST_MODE_DIFFERENTIAL:THRUST_MODE_REVERSE:TRIM_CONTROL:USM_BUOYANCY_RATE:USM_FORCE_THETA:USM_FORCE_VECTOR:USM_FORCE_VECTOR_ADD:USM_FORCE_VECTOR_MULT:USM_FORCE_X:USM_FORCE_Y:USM_RESET:USM_SIM_PAUSED:USM_WATER_DEPTH:WATER_DEPTH&LOGGER_DIRECTORY:PLOGGER_STATUS 
+0.784           PLOGGER_STATUS       pLogger         AppErrorFlag=false,Uptime=0.783776,cpuload=0.8959,memory_kb=4664,memory_max_kb=4816,MOOSName=pLogger,Publishing="LOGGER_DIRECTORY,",Subscribing="BHV_SETTINGS,IVPHELM_LIFE_EVENT,LOGGER_RESTART,MOOS_DEBUG,MOOS_SYSTEM,PLOGGER_CMD,REPORT,",LogAuxSrc=true 
+1.102           USIMMARINE_STATUS    uSimMarine      AppErrorFlag=false,Uptime=0.901931,cpuload=1.043,memory_kb=4744,memory_max_kb=4896,MOOSName=uSimMarine,Publishing="",Subscribing="APPCAST_REQ,BUOYANCY_CONTROL,BUOYANCY_RATE,CURRENT_X,CURRENT_Y,DESIRED_ELEVATOR,DESIRED_RUDDER,DESIRED_THRUST,DESIRED_THRUST_L,DESIRED_THRUST_R,DRIFT_VECTOR,DRIFT_VECTOR_ADD,DRIFT_VECTOR_MULT,DRIFT_X,DRIFT_Y,OBSTACLE_HIT,ROTATE_SPEED,THRUST_MODE_DIFFERENTIAL,THRUST_MODE_REVERSE,TRIM_CONTROL,USM_BUOYANCY_RATE,USM_FORCE_THETA,USM_FORCE_VECTOR,USM_FORCE_VECTOR_ADD,USM_FORCE_VECTOR_MULT,USM_FORCE_X,USM_FORCE_Y,USM_RESET,USM_SIM_PAUSED,USM_WATER_DEPTH,WATER_DEPTH," 
+1.112           PMARINEPID_STATUS    pMarinePID      AppErrorFlag=false,Uptime=0.709407,cpuload=1.286,memory_kb=4548,memory_max_kb=4664,MOOSName=pMarinePID,Publishing="MOOS_DEBUG,",Subscribing="APPCAST_REQ,DESIRED_DEPTH,DESIRED_HEADING,DESIRED_SPEED,MOOS_MANUAL_OVERIDE,MOOS_MANUAL_OVERRIDE,NAV_DEPTH,NAV_HEADING,NAV_PITCH,NAV_SPEED,NAV_YAW,PID_VERBOSE,SPEED_FACTOR," 
+1.512           PHELMIVP_STATUS      pHelmIvP        AppErrorFlag=false,Uptime=0.910087,cpuload=1.114,memory_kb=4884,memory_max_kb=5036,MOOSName=pHelmIvP,Publishing="DEPLOY,IVPHELM_DOMAIN,IVPHELM_MODESET,IVPHELM_REGISTER,PHELMIVP_PID,PLOGGER_CMD,RETURN,",Subscribing="AIS_REPORT,AIS_REPORT_LOCAL,APPCAST_REQ,CONST_SPD_RESET,DB_CLIENTS,DEPLOY,HELM_MAP_CLEAR,IVPHELM_REJOURNAL,IVPHELM_STATE,MOOS_MANUAL_OVERIDE,MOOS_MANUAL_OVERRIDE,NAV_DEPTH,NAV_HEADING,NAV_SPEED,NAV_X,NAV_Y,NODE_REPORT,NODE_REPORT_LOCAL,RESTART_HELM,RETURN,SPD,SPEED_UPDATE,WPT_UPDATE," 
+1.794           PMARINEVIEWER_STATUS pMarineViewer   AppErrorFlag=false,Uptime=0.903315,cpuload=5.046,memory_kb=5.667e+04,memory_max_kb=5.667e+04,MOOSName=pMarineViewer,Publishing="PMARINEVIEWER_PID,REGION_INFO,",Subscribing="APPCAST,APPCAST_REQ,GRID_CONFIG,GRID_DELTA,MVIEWER_LCLICK,MVIEWER_RCLICK,NODE_REPORT,NODE_REPORT_LOCAL,PHI_HOST_IP,PMV_CENTER,PMV_CLEAR,PMV_MENU_CONTEXT,RETURN,TRAIL_RESET,VIEW_CIRCLE,VIEW_COMMS_PULSE,VIEW_GRID,VIEW_MARKER,VIEW_POINT,VIEW_POLYGON,VIEW_RANGE_PULSE,VIEW_SEGLIST,VIEW_SEGLR,VIEW_VECTOR,VIEW_WEDGE,WPT_STAT," 
+1.802           DB_VARSUMMARY        MOOSDB_alpha    AIS_REPORT           07:59:59.000         (write pending)      0.0 Hz ~  
+AIS_REPORT_LOCAL     07:59:59.000         (write pending)      0.0 Hz ~  
+APPCAST              13:05:55.063         pMarineViewer        2.2 Hz S  proc=pMarineViewer!@#i...
+APPCAST_REQ          13:05:55.069         pMarineViewer        0.0 Hz S  node=all,app=all,durat...
+APPCAST_REQ_ALL      13:05:55.069         pMarineViewer        0.0 Hz S  node=all,app=all,durat...
+AUX_MODE             07:59:59.000         (write pending)      0.0 Hz ~  
+BHV_SETTINGS         07:59:59.000         (write pending)      0.0 Hz ~  
+BUOYANCY_CONTROL     07:59:59.000         (write pending)      0.0 Hz ~  
+BUOYANCY_RATE        07:59:59.000         (write pending)      0.0 Hz ~  
+CONST_SPD_RESET      07:59:59.000         (write pending)      0.0 Hz ~  
+CURRENT_X            07:59:59.000         (write pending)      0.0 Hz ~  
+CURRENT_Y            07:59:59.000         (write pending)      0.0 Hz ~  
+DB_CLIENTS           13:05:55.070         MOOSDB_alpha         0.0 Hz S  pNodeReporter,uProcess...
+DB_EVENT             13:05:54.586         MOOSDB_alpha         3.7 Hz S  connected=pNodeReporter
+DB_QOS               13:05:53.065         MOOSDB#1             0.0 Hz S  
+DB_RWSUMMARY         13:05:53.065         MOOSDB#1             0.0 Hz S  
+DB_TIME              13:05:55.069         MOOSDB_alpha         0.0 Hz D  1613538355.1
+DB_UPTIME            13:05:55.069         MOOSDB_alpha         0.0 Hz D  2.0
+DB_VARSUMMARY        13:05:53.065         MOOSDB#1             0.0 Hz S  
+DEPLOY               13:05:54.530         pHelmIvP             0.0 Hz S  false
+DESIRED_DEPTH        07:59:59.000         (write pending)      0.0 Hz ~  
+DESIRED_ELEVATOR     07:59:59.000         (write pending)      0.0 Hz ~  
+DESIRED_HEADING      13:05:54.781         pHelmIvP             0.0 Hz D  0.0
+DESIRED_RUDDER       13:05:54.382         pMarinePID           0.0 Hz D  0.0
+DESIRED_SPEED        13:05:54.781         pHelmIvP             0.0 Hz D  0.0
+DESIRED_THRUST       13:05:54.382         pMarinePID           0.0 Hz D  0.0
+DESIRED_THRUST_L     07:59:59.000         (write pending)      0.0 Hz ~  
+DESIRED_THRUST_R     07:59:59.000         (write pending)      0.0 Hz ~  
+DRIFT_VECTOR         07:59:59.000         (write pending)      0.0 Hz ~  
+DRIFT_VECTOR_ADD     07:59:59.000         (write pending)      0.0 Hz ~  
+DRIFT_VECTOR_MULT    07:59:59.000         (write pending)      0.0 Hz ~  
+DRIFT_X              07:59:59.000         (write pending)      0.0 Hz ~  
+DRIFT_Y              07:59:59.000         (write pending)      0.0 Hz ~  
+EXITED_NORMALLY      07:59:59.000         (write pending)      0.0 Hz ~  
+GRID_CONFIG          07:59:59.000         (write pending)      0.0 Hz ~  
+GRID_DELTA           07:59:59.000         (write pending)      0.0 Hz ~  
+HELM_MAP_CLEAR       13:05:55.063         pMarineViewer        0.0 Hz D  0.0
+IVPHELM_ALLSTOP      13:05:54.781         pHelmIvP             0.0 Hz S  ManualOverride
+IVPHELM_CPU          13:05:55.036         pHelmIvP             0.0 Hz D  0.9
+IVPHELM_DOMAIN       13:05:54.531         pHelmIvP             0.0 Hz S  speed,0,4,41:course,0,...
+IVPHELM_LIFE_EVENT   07:59:59.000         (write pending)      0.0 Hz ~  
+IVPHELM_MODESET      13:05:54.531         pHelmIvP             0.0 Hz S  
+IVPHELM_REGISTER     13:05:54.531         pHelmIvP             11.6Hz S  SPEED_UPDATE
+IVPHELM_REJOURNAL    07:59:59.000         (write pending)      0.0 Hz ~  
+IVPHELM_STATE        13:05:55.036         pHelmIvP             0.0 Hz S  PARK
+IVPHELM_SUMMARY      07:59:59.000         (write pending)      0.0 Hz ~  
+LOAD_WARNING         07:59:59.000         (write pending)      0.0 Hz ~  
+LOGGER_DIRECTORY     13:05:53.921         pLogger              0.0 Hz S  ./MOOSLog_17_2_2021___...
+LOGGER_RESTART       07:59:59.000         (write pending)      0.0 Hz ~  
+MOOS_DEBUG           13:05:54.781         pHelmIvP             0.0 Hz S  pHelmIvP AllStop: Manu...
+MOOS_MANUAL_OVERIDE  07:59:59.000         (write pending)      0.0 Hz ~  
+MOOS_MANUAL_OVERRIDE 07:59:59.000         (write pending)      0.0 Hz ~  
+MOOS_SYSTEM          07:59:59.000         (write pending)      0.0 Hz ~  
+MVIEWER_LCLICK       07:59:59.000         (write pending)      0.0 Hz ~  
+MVIEWER_RCLICK       07:59:59.000         (write pending)      0.0 Hz ~  
+NAV_DEPTH            13:05:54.873         uSimMarine           2.0 Hz D  0.0
+NAV_HEADING          13:05:54.873         uSimMarine           2.0 Hz D  180.0
+NAV_HEADING_OVER_GROUND 13:05:54.873         uSimMarine           2.0 Hz D  0.0
+NAV_LAT              13:05:54.873         uSimMarine           2.0 Hz D  43.8
+NAV_LONG             13:05:54.873         uSimMarine           2.0 Hz D  -70.3
+NAV_PITCH            13:05:54.873         uSimMarine           2.0 Hz D  0.0
+NAV_SPEED            13:05:54.873         uSimMarine           2.0 Hz D  0.0
+NAV_SPEED_OVER_GROUND 13:05:54.873         uSimMarine           2.0 Hz D  0.0
+NAV_TRAJECTORY       07:59:59.000         (write pending)      0.0 Hz ~  
+NAV_X                13:05:54.873         uSimMarine           2.0 Hz D  0.0
+NAV_Y                13:05:54.873         uSimMarine           2.0 Hz D  -20.0
+NAV_YAW              13:05:54.873         uSimMarine           2.0 Hz D  -3.1
+NAV_Z                13:05:54.873         uSimMarine           2.0 Hz D  -0.0
+NODE_REPORT          07:59:59.000         (write pending)      0.0 Hz ~  
+NODE_REPORT_LOCAL    07:59:59.000         (write pending)      0.0 Hz ~  
+OBSTACLE_HIT         07:59:59.000         (write pending)      0.0 Hz ~  
+PHELMIVP_ITER_GAP    13:05:55.036         pHelmIvP             0.0 Hz D  1.0
+PHELMIVP_ITER_LEN    13:05:55.036         pHelmIvP             0.0 Hz D  0.0
+PHELMIVP_PID         13:05:54.529         pHelmIvP             0.0 Hz D  6807.0
+PHELMIVP_STATUS      13:05:54.781         pHelmIvP             0.0 Hz S  AppErrorFlag=false,Upt...
+PHI_HOST_IP          07:59:59.000         (write pending)      0.0 Hz ~  
+PID_VERBOSE          07:59:59.000         (write pending)      0.0 Hz ~  
+PLOGGER_CMD          13:05:54.531         pHelmIvP             0.0 Hz S  COPY_FILE_REQUEST = al...
+PLOGGER_STATUS       13:05:54.053         pLogger              0.0 Hz S  AppErrorFlag=false,Upt...
+PMARINEPID_ITER_GAP  13:05:55.045         pMarinePID           9.9 Hz D  1.1
+PMARINEPID_ITER_LEN  13:05:55.045         pMarinePID           9.9 Hz D  0.0
+PMARINEPID_STATUS    13:05:54.382         pMarinePID           0.0 Hz S  AppErrorFlag=false,Upt...
+PMARINEVIEWER_ITER_LEN 13:05:55.063         pMarineViewer        0.0 Hz D  0.0
+PMARINEVIEWER_PID    13:05:54.812         pMarineViewer        0.0 Hz D  6817.0
+PMARINEVIEWER_STATUS 13:05:55.063         pMarineViewer        0.0 Hz S  AppErrorFlag=false,Upt...
+PMV_CENTER           07:59:59.000         (write pending)      0.0 Hz ~  
+PMV_CLEAR            07:59:59.000         (write pending)      0.0 Hz ~  
+PMV_CONNECT          13:05:55.063         pMarineViewer        0.0 Hz D  0.0
+PMV_MENU_CONTEXT     07:59:59.000         (write pending)      0.0 Hz ~  
+PNODEREPORTER_STATUS 07:59:59.000         (write pending)      0.0 Hz ~  
+PNR_PAUSE            07:59:59.000         (write pending)      0.0 Hz ~  
+PROC_WATCH_EVENT     13:05:54.879         uProcessWatch        0.0 Hz S  Noted to be present: [...
+PROC_WATCH_TIME_WARP 13:05:54.879         uProcessWatch        0.0 Hz D  1.0
+REGION_INFO          13:05:55.063         pMarineViewer        0.0 Hz S  lat_datum=43.8253, lon...
+REPORT               07:59:59.000         (write pending)      0.0 Hz ~  
+RESTART_HELM         07:59:59.000         (write pending)      0.0 Hz ~  
+RETURN               13:05:54.530         pHelmIvP             0.0 Hz S  false
+ROTATE_SPEED         07:59:59.000         (write pending)      0.0 Hz ~  
+SIMULATION_MODE      13:05:54.873         uSimMarine           2.0 Hz S  TRUE
+SPD                  07:59:59.000         (write pending)      0.0 Hz ~  
+SPEED_FACTOR         07:59:59.000         (write pending)      0.0 Hz ~  
+SPEED_UPDATE         07:59:59.000         (write pending)      0.0 Hz ~  
+THRUST_MODE_DIFFERENTIAL 07:59:59.000         (write pending)      0.0 Hz ~  
+THRUST_MODE_REVERSE  07:59:59.000         (write pending)      0.0 Hz ~  
+TRAIL_RESET          07:59:59.000         (write pending)      0.0 Hz ~  
+TRIM_CONTROL         07:59:59.000         (write pending)      0.0 Hz ~  
+TRUE_X               13:05:54.873         uSimMarine           2.0 Hz D  0.0
+TRUE_Y               13:05:54.873         uSimMarine           2.0 Hz D  -20.0
+USIMMARINE_ITER_GAP  13:05:54.873         uSimMarine           0.0 Hz D  1.0
+USIMMARINE_ITER_LEN  13:05:54.873         uSimMarine           2.0 Hz D  0.0
+USIMMARINE_STATUS    13:05:54.372         uSimMarine           0.0 Hz S  AppErrorFlag=false,Upt...
+USM_BUOYANCY_RATE    07:59:59.000         (write pending)      0.0 Hz ~  
+USM_DRIFT_SUMMARY    13:05:54.372         uSimMarine           0.0 Hz S  ang=0, mag=0, xmag=0, ...
+USM_FORCE_THETA      07:59:59.000         (write pending)      0.0 Hz ~  
+USM_FORCE_VECTOR     07:59:59.000         (write pending)      0.0 Hz ~  
+USM_FORCE_VECTOR_ADD 07:59:59.000         (write pending)      0.0 Hz ~  
+USM_FORCE_VECTOR_MULT 07:59:59.000         (write pending)      0.0 Hz ~  
+USM_FORCE_X          07:59:59.000         (write pending)      0.0 Hz ~  
+USM_FORCE_Y          07:59:59.000         (write pending)      0.0 Hz ~  
+USM_FSUMMARY         13:05:54.372         uSimMarine           0.0 Hz S  ang=0, mag=0, xmag=0, ...
+USM_RESET            07:59:59.000         (write pending)      0.0 Hz ~  
+USM_SIM_PAUSED       07:59:59.000         (write pending)      0.0 Hz ~  
+USM_WATER_DEPTH      07:59:59.000         (write pending)      0.0 Hz ~  
+VIEW_CIRCLE          07:59:59.000         (write pending)      0.0 Hz ~  
+VIEW_COMMS_PULSE     07:59:59.000         (write pending)      0.0 Hz ~  
+VIEW_GRID            07:59:59.000         (write pending)      0.0 Hz ~  
+VIEW_MARKER          07:59:59.000         (write pending)      0.0 Hz ~  
+VIEW_POINT           07:59:59.000         (write pending)      0.0 Hz ~  
+VIEW_POLYGON         07:59:59.000         (write pending)      0.0 Hz ~  
+VIEW_RANGE_PULSE     07:59:59.000         (write pending)      0.0 Hz ~  
+VIEW_SEGLIST         07:59:59.000         (write pending)      0.0 Hz ~  
+VIEW_SEGLR           07:59:59.000         (write pending)      0.0 Hz ~  
+VIEW_VECTOR          07:59:59.000         (write pending)      0.0 Hz ~  
+VIEW_WEDGE           07:59:59.000         (write pending)      0.0 Hz ~  
+WATER_DEPTH          07:59:59.000         (write pending)      0.0 Hz ~  
+WPT_STAT             07:59:59.000         (write pending)      0.0 Hz ~  
+WPT_UPDATE           07:59:59.000         (write pending)      0.0 Hz ~  
+ 
+1.802           DB_RWSUMMARY         MOOSDB_alpha    pNodeReporter=APPCAST_REQ:AUX_MODE:IVPHELM_ALLSTOP:IVPHELM_STATE:IVPHELM_SUMMARY:LOAD_WARNING:NAV_DEPTH:NAV_HEADING:NAV_HEADING_OVER_GROUND:NAV_LAT:NAV_LONG:NAV_PITCH:NAV_SPEED:NAV_SPEED_OVER_GROUND:NAV_TRAJECTORY:NAV_X:NAV_Y:NAV_YAW:NAV_Z:PNR_PAUSE:THRUST_MODE_REVERSE&,uProcessWatch=APPCAST_REQ:DB_CLIENTS:EXITED_NORMALLY:PHELMIVP_STATUS:PLOGGER_STATUS:PMARINEPID_STATUS:PMARINEVIEWER_STATUS:PNODEREPORTER_STATUS:USIMMARINE_STATUS&PROC_WATCH_EVENT:PROC_WATCH_TIME_WARP,pMarineViewer=APPCAST:APPCAST_REQ:GRID_CONFIG:GRID_DELTA:MVIEWER_LCLICK:MVIEWER_RCLICK:NODE_REPORT:NODE_REPORT_LOCAL:PHI_HOST_IP:PMV_CENTER:PMV_CLEAR:PMV_MENU_CONTEXT:RETURN:TRAIL_RESET:VIEW_CIRCLE:VIEW_COMMS_PULSE:VIEW_GRID:VIEW_MARKER:VIEW_POINT:VIEW_POLYGON:VIEW_RANGE_PULSE:VIEW_SEGLIST:VIEW_SEGLR:VIEW_VECTOR:VIEW_WEDGE:WPT_STAT&APPCAST:APPCAST_REQ:APPCAST_REQ_ALL:HELM_MAP_CLEAR:PMARINEVIEWER_ITER_LEN:PMARINEVIEWER_PID:PMARINEVIEWER_STATUS:PMV_CONNECT:REGION_INFO,pHelmIvP=AIS_REPORT:AIS_REPORT_LOCAL:APPCAST_REQ:CONST_SPD_RESET:DB_CLIENTS:DEPLOY:HELM_MAP_CLEAR:IVPHELM_REJOURNAL:IVPHELM_STATE:MOOS_MANUAL_OVERIDE:MOOS_MANUAL_OVERRIDE:NAV_DEPTH:NAV_HEADING:NAV_SPEED:NAV_X:NAV_Y:NODE_REPORT:NODE_REPORT_LOCAL:RESTART_HELM:RETURN:SPD:SPEED_UPDATE:WPT_UPDATE&APPCAST:DEPLOY:DESIRED_HEADING:DESIRED_SPEED:IVPHELM_ALLSTOP:IVPHELM_CPU:IVPHELM_DOMAIN:IVPHELM_MODESET:IVPHELM_REGISTER:IVPHELM_STATE:MOOS_DEBUG:PHELMIVP_ITER_GAP:PHELMIVP_ITER_LEN:PHELMIVP_PID:PHELMIVP_STATUS:PLOGGER_CMD:RETURN,pMarinePID=APPCAST_REQ:DESIRED_DEPTH:DESIRED_HEADING:DESIRED_SPEED:MOOS_MANUAL_OVERIDE:MOOS_MANUAL_OVERRIDE:NAV_DEPTH:NAV_HEADING:NAV_PITCH:NAV_SPEED:NAV_YAW:PID_VERBOSE:SPEED_FACTOR&APPCAST:DESIRED_RUDDER:DESIRED_THRUST:MOOS_DEBUG:PMARINEPID_ITER_GAP:PMARINEPID_ITER_LEN:PMARINEPID_STATUS,uSimMarine=APPCAST_REQ:BUOYANCY_CONTROL:BUOYANCY_RATE:CURRENT_X:CURRENT_Y:DESIRED_ELEVATOR:DESIRED_RUDDER:DESIRED_THRUST:DESIRED_THRUST_L:DESIRED_THRUST_R:DRIFT_VECTOR:DRIFT_VECTOR_ADD:DRIFT_VECTOR_MULT:DRIFT_X:DRIFT_Y:OBSTACLE_HIT:ROTATE_SPEED:THRUST_MODE_DIFFERENTIAL:THRUST_MODE_REVERSE:TRIM_CONTROL:USM_BUOYANCY_RATE:USM_FORCE_THETA:USM_FORCE_VECTOR:USM_FORCE_VECTOR_ADD:USM_FORCE_VECTOR_MULT:USM_FORCE_X:USM_FORCE_Y:USM_RESET:USM_SIM_PAUSED:USM_WATER_DEPTH:WATER_DEPTH&APPCAST:NAV_DEPTH:NAV_HEADING:NAV_HEADING_OVER_GROUND:NAV_LAT:NAV_LONG:NAV_PITCH:NAV_SPEED:NAV_SPEED_OVER_GROUND:NAV_X:NAV_Y:NAV_YAW:NAV_Z:SIMULATION_MODE:TRUE_X:TRUE_Y:USIMMARINE_ITER_GAP:USIMMARINE_ITER_LEN:USIMMARINE_STATUS:USM_DRIFT_SUMMARY:USM_FSUMMARY,pLogger=AIS_REPORT:AIS_REPORT_LOCAL:APPCAST_REQ:BHV_SETTINGS:BUOYANCY_CONTROL:BUOYANCY_RATE:CURRENT_X:CURRENT_Y:DB_CLIENTS:DB_EVENT:DB_QOS:DB_RWSUMMARY:DB_TIME:DB_UPTIME:DB_VARSUMMARY:DESIRED_DEPTH:DESIRED_ELEVATOR:DESIRED_HEADING:DESIRED_RUDDER:DESIRED_SPEED:DESIRED_THRUST:DESIRED_THRUST_L:DESIRED_THRUST_R:DRIFT_VECTOR:DRIFT_VECTOR_ADD:DRIFT_VECTOR_MULT:DRIFT_X:DRIFT_Y:HELM_MAP_CLEAR:IVPHELM_LIFE_EVENT:IVPHELM_REGISTER:IVPHELM_REJOURNAL:LOGGER_DIRECTORY:LOGGER_RESTART:MOOS_DEBUG:MOOS_MANUAL_OVERIDE:MOOS_MANUAL_OVERRIDE:MOOS_SYSTEM:NAV_DEPTH:NAV_HEADING:NAV_PITCH:NAV_SPEED:NAV_YAW:NODE_REPORT:NODE_REPORT_LOCAL:OBSTACLE_HIT:PID_VERBOSE:PLOGGER_CMD:PLOGGER_STATUS:REPORT:RESTART_HELM:ROTATE_SPEED:SPEED_FACTOR:THRUST_MODE_DIFFERENTIAL:THRUST_MODE_REVERSE:TRIM_CONTROL:USM_BUOYANCY_RATE:USM_FORCE_THETA:USM_FORCE_VECTOR:USM_FORCE_VECTOR_ADD:USM_FORCE_VECTOR_MULT:USM_FORCE_X:USM_FORCE_Y:USM_RESET:USM_SIM_PAUSED:USM_WATER_DEPTH:WATER_DEPTH&LOGGER_DIRECTORY:PLOGGER_STATUS 
+1.860           UPROCESSWATCH_STATUS uProcessWatch   AppErrorFlag=false,Uptime=0.852726,cpuload=1.089,memory_kb=2532,memory_max_kb=2684,MOOSName=uProcessWatch,Publishing="PROC_WATCH_EVENT,PROC_WATCH_TIME_WARP,",Subscribing="APPCAST_REQ,DB_CLIENTS,EXITED_NORMALLY,PHELMIVP_STATUS,PLOGGER_STATUS,PMARINEPID_STATUS,PMARINEVIEWER_STATUS,PNODEREPORTER_STATUS,USIMMARINE_STATUS," 
+2.369           PNODEREPORTER_STATUS pNodeReporter   AppErrorFlag=false,Uptime=1.15715,cpuload=0.6066,memory_kb=4676,memory_max_kb=4808,MOOSName=pNodeReporter,Publishing="PNODEREPORTER_PID,",Subscribing="APPCAST_REQ,AUX_MODE,IVPHELM_ALLSTOP,IVPHELM_STATE,IVPHELM_SUMMARY,LOAD_WARNING,NAV_DEPTH,NAV_HEADING,NAV_LAT,NAV_LONG,NAV_SPEED,NAV_TRAJECTORY,NAV_X,NAV_Y,NAV_YAW,PNR_PAUSE,THRUST_MODE_REVERSE," 
+2.797           PLOGGER_STATUS       pLogger         AppErrorFlag=false,Uptime=2.79707,cpuload=1.719,memory_kb=4892,memory_max_kb=4892,MOOSName=pLogger,Publishing="LOGGER_DIRECTORY,PLOGGER_STATUS,",Subscribing="AIS_REPORT,AIS_REPORT_LOCAL,APPCAST,APPCAST_REQ,APPCAST_REQ_ALL,AUX_MODE,BHV_SETTINGS,BUOYANCY_CONTROL,BUOYANCY_RATE,CONST_SPD_RESET,CURRENT_X,CURRENT_Y,DB_CLIENTS,DB_EVENT,DB_QOS,DB_RWSUMMARY,DB_TIME,DB_UPTIME,DB_VARSUMMARY,DEPLOY,DESIRED_DEPTH,DESIRED_ELEVATOR,DESIRED_HEADING,DESIRED_RUDDER,DESIRED_SPEED,DESIRED_THRUST,DESIRED_THRUST_L,DESIRED_THRUST_R,DRIFT_VECTOR,DRIFT_VECTOR_ADD,DRIFT_VECTOR_MULT,DRIFT_X,DRIFT_Y,EXITED_NORMALLY,GRID_CONFIG,GRID_DELTA,HELM_MAP_CLEAR,IVPHELM_ALLSTOP,IVPHELM_CPU,IVPHELM_DOMAIN,IVPHELM_LIFE_EVENT,IVPHELM_MODESET,IVPHELM_REGISTER,IVPHELM_REJOURNAL,IVPHELM_STATE,IVPHELM_SUMMARY,LOAD_WARNING,LOGGER_DIRECTORY,LOGGER_RESTART,MOOS_DEBUG,MOOS_MANUAL_OVERIDE,MOOS_MANUAL_OVERRIDE,MOOS_SYSTEM,MVIEWER_LCLICK,MVIEWER_RCLICK,NAV_DEPTH,NAV_HEADING,NAV_HEADING_OVER_GROUND,NAV_LAT,NAV_LONG,NAV_PITCH,NAV_SPEED,NAV_SPEED_OVER_GROUND,NAV_TRAJECTORY,NAV_X,NAV_Y,NAV_YAW,NAV_Z,NODE_REPORT,NODE_REPORT_LOCAL,OBSTACLE_HIT,PHELMIVP_ITER_GAP,PHELMIVP_ITER_LEN,PHELMIVP_PID,PHELMIVP_STATUS,PHI_HOST_IP,PID_VERBOSE,PLOGGER_CMD,PLOGGER_STATUS,PMARINEPID_ITER_GAP,PMARINEPID_ITER_LEN,PMARINEPID_STATUS,PMARINEVIEWER_ITER_LEN,PMARINEVIEWER_PID,PMARINEVIEWER_STATUS,PMV_CENTER,PMV_CLEAR,PMV_CONNECT,PMV_MENU_CONTEXT,PNODEREPORTER_PID,PNODEREPORTER_STATUS,PNR_PAUSE,PROC_WATCH_ALL_OK,PROC_WATCH_EVENT,PROC_WATCH_FULL_SUMMARY,PROC_WATCH_SUMMARY,PROC_WATCH_TIME_WARP,REGION_INFO,REPORT,RESTART_HELM,RETURN,ROTATE_SPEED,SIMULATION_MODE,SPD,SPEED_FACTOR,SPEED_UPDATE,THRUST_MODE_DIFFERENTIAL,THRUST_MODE_REVERSE,TRAIL_RESET,TRIM_CONTROL,TRUE_X,TRUE_Y,UPROCESSWATCH_ITER_LEN,UPROCESSWATCH_STATUS,USIMMARINE_ITER_GAP,USIMMARINE_ITER_LEN,USIMMARINE_STATUS,USM_BUOYANCY_RATE,USM_DRIFT_SUMMARY,USM_FORCE_THETA,USM_FORCE_VECTOR,USM_FORCE_VECTOR_ADD,USM_FORCE_VECTOR_MULT,USM_FORCE_X,USM_FORCE_Y,USM_FSUMMARY,USM_RESET,USM_SIM_PAUSED,USM_WATER_DEPTH,VIEW_CIRCLE,VIEW_COMMS_PULSE,VIEW_GRID,VIEW_MARKER,VIEW_POINT,VIEW_POLYGON,VIEW_RANGE_PULSE,VIEW_SEGLIST,VIEW_SEGLR,VIEW_VECTOR,VIEW_WEDGE,WATER_DEPTH,WPT_STAT,WPT_UPDATE,",LogAuxSrc=true 
+1.512           PHELMIVP_STATUS      pHelmIvP        AppErrorFlag=false,Uptime=0.910087,cpuload=1.114,memory_kb=4884,memory_max_kb=5036,MOOSName=pHelmIvP,Publishing="DEPLOY,IVPHELM_DOMAIN,IVPHELM_MODESET,IVPHELM_REGISTER,PHELMIVP_PID,PLOGGER_CMD,RETURN,",Subscribing="AIS_REPORT,AIS_REPORT_LOCAL,APPCAST_REQ,CONST_SPD_RESET,DB_CLIENTS,DEPLOY,HELM_MAP_CLEAR,IVPHELM_REJOURNAL,IVPHELM_STATE,MOOS_MANUAL_OVERIDE,MOOS_MANUAL_OVERRIDE,NAV_DEPTH,NAV_HEADING,NAV_SPEED,NAV_X,NAV_Y,NODE_REPORT,NODE_REPORT_LOCAL,RESTART_HELM,RETURN,SPD,SPEED_UPDATE,WPT_UPDATE," 
+1.794           PMARINEVIEWER_STATUS pMarineViewer   AppErrorFlag=false,Uptime=0.903315,cpuload=5.046,memory_kb=5.667e+04,memory_max_kb=5.667e+04,MOOSName=pMarineViewer,Publishing="PMARINEVIEWER_PID,REGION_INFO,",Subscribing="APPCAST,APPCAST_REQ,GRID_CONFIG,GRID_DELTA,MVIEWER_LCLICK,MVIEWER_RCLICK,NODE_REPORT,NODE_REPORT_LOCAL,PHI_HOST_IP,PMV_CENTER,PMV_CLEAR,PMV_MENU_CONTEXT,RETURN,TRAIL_RESET,VIEW_CIRCLE,VIEW_COMMS_PULSE,VIEW_GRID,VIEW_MARKER,VIEW_POINT,VIEW_POLYGON,VIEW_RANGE_PULSE,VIEW_SEGLIST,VIEW_SEGLR,VIEW_VECTOR,VIEW_WEDGE,WPT_STAT," 
+1.802           DB_VARSUMMARY        MOOSDB_alpha    AIS_REPORT           07:59:59.000         (write pending)      0.0 Hz ~  
+AIS_REPORT_LOCAL     07:59:59.000         (write pending)      0.0 Hz ~  
+APPCAST              13:05:55.063         pMarineViewer        2.2 Hz S  proc=pMarineViewer!@#i...
+APPCAST_REQ          13:05:55.069         pMarineViewer        0.0 Hz S  node=all,app=all,durat...
+APPCAST_REQ_ALL      13:05:55.069         pMarineViewer        0.0 Hz S  node=all,app=all,durat...
+AUX_MODE             07:59:59.000         (write pending)      0.0 Hz ~  
+BHV_SETTINGS         07:59:59.000         (write pending)      0.0 Hz ~  
+BUOYANCY_CONTROL     07:59:59.000         (write pending)      0.0 Hz ~  
+BUOYANCY_RATE        07:59:59.000         (write pending)      0.0 Hz ~  
+CONST_SPD_RESET      07:59:59.000         (write pending)      0.0 Hz ~  
+CURRENT_X            07:59:59.000         (write pending)      0.0 Hz ~  
+CURRENT_Y            07:59:59.000         (write pending)      0.0 Hz ~  
+DB_CLIENTS           13:05:55.070         MOOSDB_alpha         0.0 Hz S  pNodeReporter,uProcess...
+DB_EVENT             13:05:54.586         MOOSDB_alpha         3.7 Hz S  connected=pNodeReporter
+DB_QOS               13:05:53.065         MOOSDB#1             0.0 Hz S  
+DB_RWSUMMARY         13:05:53.065         MOOSDB#1             0.0 Hz S  
+DB_TIME              13:05:55.069         MOOSDB_alpha         0.0 Hz D  1613538355.1
+DB_UPTIME            13:05:55.069         MOOSDB_alpha         0.0 Hz D  2.0
+DB_VARSUMMARY        13:05:53.065         MOOSDB#1             0.0 Hz S  
+DEPLOY               13:05:54.530         pHelmIvP             0.0 Hz S  false
+DESIRED_DEPTH        07:59:59.000         (write pending)      0.0 Hz ~  
+DESIRED_ELEVATOR     07:59:59.000         (write pending)      0.0 Hz ~  
+DESIRED_HEADING      13:05:54.781         pHelmIvP             0.0 Hz D  0.0
+DESIRED_RUDDER       13:05:54.382         pMarinePID           0.0 Hz D  0.0
+DESIRED_SPEED        13:05:54.781         pHelmIvP             0.0 Hz D  0.0
+DESIRED_THRUST       13:05:54.382         pMarinePID           0.0 Hz D  0.0
+DESIRED_THRUST_L     07:59:59.000         (write pending)      0.0 Hz ~  
+DESIRED_THRUST_R     07:59:59.000         (write pending)      0.0 Hz ~  
+DRIFT_VECTOR         07:59:59.000         (write pending)      0.0 Hz ~  
+DRIFT_VECTOR_ADD     07:59:59.000         (write pending)      0.0 Hz ~  
+DRIFT_VECTOR_MULT    07:59:59.000         (write pending)      0.0 Hz ~  
+DRIFT_X              07:59:59.000         (write pending)      0.0 Hz ~  
+DRIFT_Y              07:59:59.000         (write pending)      0.0 Hz ~  
+EXITED_NORMALLY      07:59:59.000         (write pending)      0.0 Hz ~  
+GRID_CONFIG          07:59:59.000         (write pending)      0.0 Hz ~  
+GRID_DELTA           07:59:59.000         (write pending)      0.0 Hz ~  
+HELM_MAP_CLEAR       13:05:55.063         pMarineViewer        0.0 Hz D  0.0
+IVPHELM_ALLSTOP      13:05:54.781         pHelmIvP             0.0 Hz S  ManualOverride
+IVPHELM_CPU          13:05:55.036         pHelmIvP             0.0 Hz D  0.9
+IVPHELM_DOMAIN       13:05:54.531         pHelmIvP             0.0 Hz S  speed,0,4,41:course,0,...
+IVPHELM_LIFE_EVENT   07:59:59.000         (write pending)      0.0 Hz ~  
+IVPHELM_MODESET      13:05:54.531         pHelmIvP             0.0 Hz S  
+IVPHELM_REGISTER     13:05:54.531         pHelmIvP             11.6Hz S  SPEED_UPDATE
+IVPHELM_REJOURNAL    07:59:59.000         (write pending)      0.0 Hz ~  
+IVPHELM_STATE        13:05:55.036         pHelmIvP             0.0 Hz S  PARK
+IVPHELM_SUMMARY      07:59:59.000         (write pending)      0.0 Hz ~  
+LOAD_WARNING         07:59:59.000         (write pending)      0.0 Hz ~  
+LOGGER_DIRECTORY     13:05:53.921         pLogger              0.0 Hz S  ./MOOSLog_17_2_2021___...
+LOGGER_RESTART       07:59:59.000         (write pending)      0.0 Hz ~  
+MOOS_DEBUG           13:05:54.781         pHelmIvP             0.0 Hz S  pHelmIvP AllStop: Manu...
+MOOS_MANUAL_OVERIDE  07:59:59.000         (write pending)      0.0 Hz ~  
+MOOS_MANUAL_OVERRIDE 07:59:59.000         (write pending)      0.0 Hz ~  
+MOOS_SYSTEM          07:59:59.000         (write pending)      0.0 Hz ~  
+MVIEWER_LCLICK       07:59:59.000         (write pending)      0.0 Hz ~  
+MVIEWER_RCLICK       07:59:59.000         (write pending)      0.0 Hz ~  
+NAV_DEPTH            13:05:54.873         uSimMarine           2.0 Hz D  0.0
+NAV_HEADING          13:05:54.873         uSimMarine           2.0 Hz D  180.0
+NAV_HEADING_OVER_GROUND 13:05:54.873         uSimMarine           2.0 Hz D  0.0
+NAV_LAT              13:05:54.873         uSimMarine           2.0 Hz D  43.8
+NAV_LONG             13:05:54.873         uSimMarine           2.0 Hz D  -70.3
+NAV_PITCH            13:05:54.873         uSimMarine           2.0 Hz D  0.0
+NAV_SPEED            13:05:54.873         uSimMarine           2.0 Hz D  0.0
+NAV_SPEED_OVER_GROUND 13:05:54.873         uSimMarine           2.0 Hz D  0.0
+NAV_TRAJECTORY       07:59:59.000         (write pending)      0.0 Hz ~  
+NAV_X                13:05:54.873         uSimMarine           2.0 Hz D  0.0
+NAV_Y                13:05:54.873         uSimMarine           2.0 Hz D  -20.0
+NAV_YAW              13:05:54.873         uSimMarine           2.0 Hz D  -3.1
+NAV_Z                13:05:54.873         uSimMarine           2.0 Hz D  -0.0
+NODE_REPORT          07:59:59.000         (write pending)      0.0 Hz ~  
+NODE_REPORT_LOCAL    07:59:59.000         (write pending)      0.0 Hz ~  
+OBSTACLE_HIT         07:59:59.000         (write pending)      0.0 Hz ~  
+PHELMIVP_ITER_GAP    13:05:55.036         pHelmIvP             0.0 Hz D  1.0
+PHELMIVP_ITER_LEN    13:05:55.036         pHelmIvP             0.0 Hz D  0.0
+PHELMIVP_PID         13:05:54.529         pHelmIvP             0.0 Hz D  6807.0
+PHELMIVP_STATUS      13:05:54.781         pHelmIvP             0.0 Hz S  AppErrorFlag=false,Upt...
+PHI_HOST_IP          07:59:59.000         (write pending)      0.0 Hz ~  
+PID_VERBOSE          07:59:59.000         (write pending)      0.0 Hz ~  
+PLOGGER_CMD          13:05:54.531         pHelmIvP             0.0 Hz S  COPY_FILE_REQUEST = al...
+PLOGGER_STATUS       13:05:54.053         pLogger              0.0 Hz S  AppErrorFlag=false,Upt...
+PMARINEPID_ITER_GAP  13:05:55.045         pMarinePID           9.9 Hz D  1.1
+PMARINEPID_ITER_LEN  13:05:55.045         pMarinePID           9.9 Hz D  0.0
+PMARINEPID_STATUS    13:05:54.382         pMarinePID           0.0 Hz S  AppErrorFlag=false,Upt...
+PMARINEVIEWER_ITER_LEN 13:05:55.063         pMarineViewer        0.0 Hz D  0.0
+PMARINEVIEWER_PID    13:05:54.812         pMarineViewer        0.0 Hz D  6817.0
+PMARINEVIEWER_STATUS 13:05:55.063         pMarineViewer        0.0 Hz S  AppErrorFlag=false,Upt...
+PMV_CENTER           07:59:59.000         (write pending)      0.0 Hz ~  
+PMV_CLEAR            07:59:59.000         (write pending)      0.0 Hz ~  
+PMV_CONNECT          13:05:55.063         pMarineViewer        0.0 Hz D  0.0
+PMV_MENU_CONTEXT     07:59:59.000         (write pending)      0.0 Hz ~  
+PNODEREPORTER_STATUS 07:59:59.000         (write pending)      0.0 Hz ~  
+PNR_PAUSE            07:59:59.000         (write pending)      0.0 Hz ~  
+PROC_WATCH_EVENT     13:05:54.879         uProcessWatch        0.0 Hz S  Noted to be present: [...
+PROC_WATCH_TIME_WARP 13:05:54.879         uProcessWatch        0.0 Hz D  1.0
+REGION_INFO          13:05:55.063         pMarineViewer        0.0 Hz S  lat_datum=43.8253, lon...
+REPORT               07:59:59.000         (write pending)      0.0 Hz ~  
+RESTART_HELM         07:59:59.000         (write pending)      0.0 Hz ~  
+RETURN               13:05:54.530         pHelmIvP             0.0 Hz S  false
+ROTATE_SPEED         07:59:59.000         (write pending)      0.0 Hz ~  
+SIMULATION_MODE      13:05:54.873         uSimMarine           2.0 Hz S  TRUE
+SPD                  07:59:59.000         (write pending)      0.0 Hz ~  
+SPEED_FACTOR         07:59:59.000         (write pending)      0.0 Hz ~  
+SPEED_UPDATE         07:59:59.000         (write pending)      0.0 Hz ~  
+THRUST_MODE_DIFFERENTIAL 07:59:59.000         (write pending)      0.0 Hz ~  
+THRUST_MODE_REVERSE  07:59:59.000         (write pending)      0.0 Hz ~  
+TRAIL_RESET          07:59:59.000         (write pending)      0.0 Hz ~  
+TRIM_CONTROL         07:59:59.000         (write pending)      0.0 Hz ~  
+TRUE_X               13:05:54.873         uSimMarine           2.0 Hz D  0.0
+TRUE_Y               13:05:54.873         uSimMarine           2.0 Hz D  -20.0
+USIMMARINE_ITER_GAP  13:05:54.873         uSimMarine           0.0 Hz D  1.0
+USIMMARINE_ITER_LEN  13:05:54.873         uSimMarine           2.0 Hz D  0.0
+USIMMARINE_STATUS    13:05:54.372         uSimMarine           0.0 Hz S  AppErrorFlag=false,Upt...
+USM_BUOYANCY_RATE    07:59:59.000         (write pending)      0.0 Hz ~  
+USM_DRIFT_SUMMARY    13:05:54.372         uSimMarine           0.0 Hz S  ang=0, mag=0, xmag=0, ...
+USM_FORCE_THETA      07:59:59.000         (write pending)      0.0 Hz ~  
+USM_FORCE_VECTOR     07:59:59.000         (write pending)      0.0 Hz ~  
+USM_FORCE_VECTOR_ADD 07:59:59.000         (write pending)      0.0 Hz ~  
+USM_FORCE_VECTOR_MULT 07:59:59.000         (write pending)      0.0 Hz ~  
+USM_FORCE_X          07:59:59.000         (write pending)      0.0 Hz ~  
+USM_FORCE_Y          07:59:59.000         (write pending)      0.0 Hz ~  
+USM_FSUMMARY         13:05:54.372         uSimMarine           0.0 Hz S  ang=0, mag=0, xmag=0, ...
+USM_RESET            07:59:59.000         (write pending)      0.0 Hz ~  
+USM_SIM_PAUSED       07:59:59.000         (write pending)      0.0 Hz ~  
+USM_WATER_DEPTH      07:59:59.000         (write pending)      0.0 Hz ~  
+VIEW_CIRCLE          07:59:59.000         (write pending)      0.0 Hz ~  
+VIEW_COMMS_PULSE     07:59:59.000         (write pending)      0.0 Hz ~  
+VIEW_GRID            07:59:59.000         (write pending)      0.0 Hz ~  
+VIEW_MARKER          07:59:59.000         (write pending)      0.0 Hz ~  
+VIEW_POINT           07:59:59.000         (write pending)      0.0 Hz ~  
+VIEW_POLYGON         07:59:59.000         (write pending)      0.0 Hz ~  
+VIEW_RANGE_PULSE     07:59:59.000         (write pending)      0.0 Hz ~  
+VIEW_SEGLIST         07:59:59.000         (write pending)      0.0 Hz ~  
+VIEW_SEGLR           07:59:59.000         (write pending)      0.0 Hz ~  
+VIEW_VECTOR          07:59:59.000         (write pending)      0.0 Hz ~  
+VIEW_WEDGE           07:59:59.000         (write pending)      0.0 Hz ~  
+WATER_DEPTH          07:59:59.000         (write pending)      0.0 Hz ~  
+WPT_STAT             07:59:59.000         (write pending)      0.0 Hz ~  
+WPT_UPDATE           07:59:59.000         (write pending)      0.0 Hz ~  
+ 
+1.802           DB_RWSUMMARY         MOOSDB_alpha    pNodeReporter=APPCAST_REQ:AUX_MODE:IVPHELM_ALLSTOP:IVPHELM_STATE:IVPHELM_SUMMARY:LOAD_WARNING:NAV_DEPTH:NAV_HEADING:NAV_HEADING_OVER_GROUND:NAV_LAT:NAV_LONG:NAV_PITCH:NAV_SPEED:NAV_SPEED_OVER_GROUND:NAV_TRAJECTORY:NAV_X:NAV_Y:NAV_YAW:NAV_Z:PNR_PAUSE:THRUST_MODE_REVERSE&,uProcessWatch=APPCAST_REQ:DB_CLIENTS:EXITED_NORMALLY:PHELMIVP_STATUS:PLOGGER_STATUS:PMARINEPID_STATUS:PMARINEVIEWER_STATUS:PNODEREPORTER_STATUS:USIMMARINE_STATUS&PROC_WATCH_EVENT:PROC_WATCH_TIME_WARP,pMarineViewer=APPCAST:APPCAST_REQ:GRID_CONFIG:GRID_DELTA:MVIEWER_LCLICK:MVIEWER_RCLICK:NODE_REPORT:NODE_REPORT_LOCAL:PHI_HOST_IP:PMV_CENTER:PMV_CLEAR:PMV_MENU_CONTEXT:RETURN:TRAIL_RESET:VIEW_CIRCLE:VIEW_COMMS_PULSE:VIEW_GRID:VIEW_MARKER:VIEW_POINT:VIEW_POLYGON:VIEW_RANGE_PULSE:VIEW_SEGLIST:VIEW_SEGLR:VIEW_VECTOR:VIEW_WEDGE:WPT_STAT&APPCAST:APPCAST_REQ:APPCAST_REQ_ALL:HELM_MAP_CLEAR:PMARINEVIEWER_ITER_LEN:PMARINEVIEWER_PID:PMARINEVIEWER_STATUS:PMV_CONNECT:REGION_INFO,pHelmIvP=AIS_REPORT:AIS_REPORT_LOCAL:APPCAST_REQ:CONST_SPD_RESET:DB_CLIENTS:DEPLOY:HELM_MAP_CLEAR:IVPHELM_REJOURNAL:IVPHELM_STATE:MOOS_MANUAL_OVERIDE:MOOS_MANUAL_OVERRIDE:NAV_DEPTH:NAV_HEADING:NAV_SPEED:NAV_X:NAV_Y:NODE_REPORT:NODE_REPORT_LOCAL:RESTART_HELM:RETURN:SPD:SPEED_UPDATE:WPT_UPDATE&APPCAST:DEPLOY:DESIRED_HEADING:DESIRED_SPEED:IVPHELM_ALLSTOP:IVPHELM_CPU:IVPHELM_DOMAIN:IVPHELM_MODESET:IVPHELM_REGISTER:IVPHELM_STATE:MOOS_DEBUG:PHELMIVP_ITER_GAP:PHELMIVP_ITER_LEN:PHELMIVP_PID:PHELMIVP_STATUS:PLOGGER_CMD:RETURN,pMarinePID=APPCAST_REQ:DESIRED_DEPTH:DESIRED_HEADING:DESIRED_SPEED:MOOS_MANUAL_OVERIDE:MOOS_MANUAL_OVERRIDE:NAV_DEPTH:NAV_HEADING:NAV_PITCH:NAV_SPEED:NAV_YAW:PID_VERBOSE:SPEED_FACTOR&APPCAST:DESIRED_RUDDER:DESIRED_THRUST:MOOS_DEBUG:PMARINEPID_ITER_GAP:PMARINEPID_ITER_LEN:PMARINEPID_STATUS,uSimMarine=APPCAST_REQ:BUOYANCY_CONTROL:BUOYANCY_RATE:CURRENT_X:CURRENT_Y:DESIRED_ELEVATOR:DESIRED_RUDDER:DESIRED_THRUST:DESIRED_THRUST_L:DESIRED_THRUST_R:DRIFT_VECTOR:DRIFT_VECTOR_ADD:DRIFT_VECTOR_MULT:DRIFT_X:DRIFT_Y:OBSTACLE_HIT:ROTATE_SPEED:THRUST_MODE_DIFFERENTIAL:THRUST_MODE_REVERSE:TRIM_CONTROL:USM_BUOYANCY_RATE:USM_FORCE_THETA:USM_FORCE_VECTOR:USM_FORCE_VECTOR_ADD:USM_FORCE_VECTOR_MULT:USM_FORCE_X:USM_FORCE_Y:USM_RESET:USM_SIM_PAUSED:USM_WATER_DEPTH:WATER_DEPTH&APPCAST:NAV_DEPTH:NAV_HEADING:NAV_HEADING_OVER_GROUND:NAV_LAT:NAV_LONG:NAV_PITCH:NAV_SPEED:NAV_SPEED_OVER_GROUND:NAV_X:NAV_Y:NAV_YAW:NAV_Z:SIMULATION_MODE:TRUE_X:TRUE_Y:USIMMARINE_ITER_GAP:USIMMARINE_ITER_LEN:USIMMARINE_STATUS:USM_DRIFT_SUMMARY:USM_FSUMMARY,pLogger=AIS_REPORT:AIS_REPORT_LOCAL:APPCAST_REQ:BHV_SETTINGS:BUOYANCY_CONTROL:BUOYANCY_RATE:CURRENT_X:CURRENT_Y:DB_CLIENTS:DB_EVENT:DB_QOS:DB_RWSUMMARY:DB_TIME:DB_UPTIME:DB_VARSUMMARY:DESIRED_DEPTH:DESIRED_ELEVATOR:DESIRED_HEADING:DESIRED_RUDDER:DESIRED_SPEED:DESIRED_THRUST:DESIRED_THRUST_L:DESIRED_THRUST_R:DRIFT_VECTOR:DRIFT_VECTOR_ADD:DRIFT_VECTOR_MULT:DRIFT_X:DRIFT_Y:HELM_MAP_CLEAR:IVPHELM_LIFE_EVENT:IVPHELM_REGISTER:IVPHELM_REJOURNAL:LOGGER_DIRECTORY:LOGGER_RESTART:MOOS_DEBUG:MOOS_MANUAL_OVERIDE:MOOS_MANUAL_OVERRIDE:MOOS_SYSTEM:NAV_DEPTH:NAV_HEADING:NAV_PITCH:NAV_SPEED:NAV_YAW:NODE_REPORT:NODE_REPORT_LOCAL:OBSTACLE_HIT:PID_VERBOSE:PLOGGER_CMD:PLOGGER_STATUS:REPORT:RESTART_HELM:ROTATE_SPEED:SPEED_FACTOR:THRUST_MODE_DIFFERENTIAL:THRUST_MODE_REVERSE:TRIM_CONTROL:USM_BUOYANCY_RATE:USM_FORCE_THETA:USM_FORCE_VECTOR:USM_FORCE_VECTOR_ADD:USM_FORCE_VECTOR_MULT:USM_FORCE_X:USM_FORCE_Y:USM_RESET:USM_SIM_PAUSED:USM_WATER_DEPTH:WATER_DEPTH&LOGGER_DIRECTORY:PLOGGER_STATUS 
+1.860           UPROCESSWATCH_STATUS uProcessWatch   AppErrorFlag=false,Uptime=0.852726,cpuload=1.089,memory_kb=2532,memory_max_kb=2684,MOOSName=uProcessWatch,Publishing="PROC_WATCH_EVENT,PROC_WATCH_TIME_WARP,",Subscribing="APPCAST_REQ,DB_CLIENTS,EXITED_NORMALLY,PHELMIVP_STATUS,PLOGGER_STATUS,PMARINEPID_STATUS,PMARINEVIEWER_STATUS,PNODEREPORTER_STATUS,USIMMARINE_STATUS," 
+2.369           PNODEREPORTER_STATUS pNodeReporter   AppErrorFlag=false,Uptime=1.15715,cpuload=0.6066,memory_kb=4676,memory_max_kb=4808,MOOSName=pNodeReporter,Publishing="PNODEREPORTER_PID,",Subscribing="APPCAST_REQ,AUX_MODE,IVPHELM_ALLSTOP,IVPHELM_STATE,IVPHELM_SUMMARY,LOAD_WARNING,NAV_DEPTH,NAV_HEADING,NAV_LAT,NAV_LONG,NAV_SPEED,NAV_TRAJECTORY,NAV_X,NAV_Y,NAV_YAW,PNR_PAUSE,THRUST_MODE_REVERSE," 
+2.797           PLOGGER_STATUS       pLogger         AppErrorFlag=false,Uptime=2.79707,cpuload=1.719,memory_kb=4892,memory_max_kb=4892,MOOSName=pLogger,Publishing="LOGGER_DIRECTORY,PLOGGER_STATUS,",Subscribing="AIS_REPORT,AIS_REPORT_LOCAL,APPCAST,APPCAST_REQ,APPCAST_REQ_ALL,AUX_MODE,BHV_SETTINGS,BUOYANCY_CONTROL,BUOYANCY_RATE,CONST_SPD_RESET,CURRENT_X,CURRENT_Y,DB_CLIENTS,DB_EVENT,DB_QOS,DB_RWSUMMARY,DB_TIME,DB_UPTIME,DB_VARSUMMARY,DEPLOY,DESIRED_DEPTH,DESIRED_ELEVATOR,DESIRED_HEADING,DESIRED_RUDDER,DESIRED_SPEED,DESIRED_THRUST,DESIRED_THRUST_L,DESIRED_THRUST_R,DRIFT_VECTOR,DRIFT_VECTOR_ADD,DRIFT_VECTOR_MULT,DRIFT_X,DRIFT_Y,EXITED_NORMALLY,GRID_CONFIG,GRID_DELTA,HELM_MAP_CLEAR,IVPHELM_ALLSTOP,IVPHELM_CPU,IVPHELM_DOMAIN,IVPHELM_LIFE_EVENT,IVPHELM_MODESET,IVPHELM_REGISTER,IVPHELM_REJOURNAL,IVPHELM_STATE,IVPHELM_SUMMARY,LOAD_WARNING,LOGGER_DIRECTORY,LOGGER_RESTART,MOOS_DEBUG,MOOS_MANUAL_OVERIDE,MOOS_MANUAL_OVERRIDE,MOOS_SYSTEM,MVIEWER_LCLICK,MVIEWER_RCLICK,NAV_DEPTH,NAV_HEADING,NAV_HEADING_OVER_GROUND,NAV_LAT,NAV_LONG,NAV_PITCH,NAV_SPEED,NAV_SPEED_OVER_GROUND,NAV_TRAJECTORY,NAV_X,NAV_Y,NAV_YAW,NAV_Z,NODE_REPORT,NODE_REPORT_LOCAL,OBSTACLE_HIT,PHELMIVP_ITER_GAP,PHELMIVP_ITER_LEN,PHELMIVP_PID,PHELMIVP_STATUS,PHI_HOST_IP,PID_VERBOSE,PLOGGER_CMD,PLOGGER_STATUS,PMARINEPID_ITER_GAP,PMARINEPID_ITER_LEN,PMARINEPID_STATUS,PMARINEVIEWER_ITER_LEN,PMARINEVIEWER_PID,PMARINEVIEWER_STATUS,PMV_CENTER,PMV_CLEAR,PMV_CONNECT,PMV_MENU_CONTEXT,PNODEREPORTER_PID,PNODEREPORTER_STATUS,PNR_PAUSE,PROC_WATCH_ALL_OK,PROC_WATCH_EVENT,PROC_WATCH_FULL_SUMMARY,PROC_WATCH_SUMMARY,PROC_WATCH_TIME_WARP,REGION_INFO,REPORT,RESTART_HELM,RETURN,ROTATE_SPEED,SIMULATION_MODE,SPD,SPEED_FACTOR,SPEED_UPDATE,THRUST_MODE_DIFFERENTIAL,THRUST_MODE_REVERSE,TRAIL_RESET,TRIM_CONTROL,TRUE_X,TRUE_Y,UPROCESSWATCH_ITER_LEN,UPROCESSWATCH_STATUS,USIMMARINE_ITER_GAP,USIMMARINE_ITER_LEN,USIMMARINE_STATUS,USM_BUOYANCY_RATE,USM_DRIFT_SUMMARY,USM_FORCE_THETA,USM_FORCE_VECTOR,USM_FORCE_VECTOR_ADD,USM_FORCE_VECTOR_MULT,USM_FORCE_X,USM_FORCE_Y,USM_FSUMMARY,USM_RESET,USM_SIM_PAUSED,USM_WATER_DEPTH,VIEW_CIRCLE,VIEW_COMMS_PULSE,VIEW_GRID,VIEW_MARKER,VIEW_POINT,VIEW_POLYGON,VIEW_RANGE_PULSE,VIEW_SEGLIST,VIEW_SEGLR,VIEW_VECTOR,VIEW_WEDGE,WATER_DEPTH,WPT_STAT,WPT_UPDATE,",LogAuxSrc=true 
+3.109           USIMMARINE_STATUS    uSimMarine      AppErrorFlag=false,Uptime=2.90843,cpuload=0.3913,memory_kb=4744,memory_max_kb=4896,MOOSName=uSimMarine,Publishing="APPCAST,NAV_DEPTH,NAV_HEADING,NAV_HEADING_OVER_GROUND,NAV_LAT,NAV_LONG,NAV_PITCH,NAV_SPEED,NAV_SPEED_OVER_GROUND,NAV_X,NAV_Y,NAV_YAW,NAV_Z,SIMULATION_MODE,TRUE_X,TRUE_Y,USIMMARINE_ITER_GAP,USIMMARINE_ITER_LEN,USIMMARINE_STATUS,USM_DRIFT_SUMMARY,USM_FSUMMARY,",Subscribing="APPCAST_REQ,BUOYANCY_CONTROL,BUOYANCY_RATE,CURRENT_X,CURRENT_Y,DESIRED_ELEVATOR,DESIRED_RUDDER,DESIRED_THRUST,DESIRED_THRUST_L,DESIRED_THRUST_R,DRIFT_VECTOR,DRIFT_VECTOR_ADD,DRIFT_VECTOR_MULT,DRIFT_X,DRIFT_Y,OBSTACLE_HIT,ROTATE_SPEED,THRUST_MODE_DIFFERENTIAL,THRUST_MODE_REVERSE,TRIM_CONTROL,USM_BUOYANCY_RATE,USM_FORCE_THETA,USM_FORCE_VECTOR,USM_FORCE_VECTOR_ADD,USM_FORCE_VECTOR_MULT,USM_FORCE_X,USM_FORCE_Y,USM_RESET,USM_SIM_PAUSED,USM_WATER_DEPTH,WATER_DEPTH," 
+3.109           USIMMARINE_STATUS    uSimMarine      AppErrorFlag=false,Uptime=2.90843,cpuload=0.3913,memory_kb=4744,memory_max_kb=4896,MOOSName=uSimMarine,Publishing="APPCAST,NAV_DEPTH,NAV_HEADING,NAV_HEADING_OVER_GROUND,NAV_LAT,NAV_LONG,NAV_PITCH,NAV_SPEED,NAV_SPEED_OVER_GROUND,NAV_X,NAV_Y,NAV_YAW,NAV_Z,SIMULATION_MODE,TRUE_X,TRUE_Y,USIMMARINE_ITER_GAP,USIMMARINE_ITER_LEN,USIMMARINE_STATUS,USM_DRIFT_SUMMARY,USM_FSUMMARY,",Subscribing="APPCAST_REQ,BUOYANCY_CONTROL,BUOYANCY_RATE,CURRENT_X,CURRENT_Y,DESIRED_ELEVATOR,DESIRED_RUDDER,DESIRED_THRUST,DESIRED_THRUST_L,DESIRED_THRUST_R,DRIFT_VECTOR,DRIFT_VECTOR_ADD,DRIFT_VECTOR_MULT,DRIFT_X,DRIFT_Y,OBSTACLE_HIT,ROTATE_SPEED,THRUST_MODE_DIFFERENTIAL,THRUST_MODE_REVERSE,TRIM_CONTROL,USM_BUOYANCY_RATE,USM_FORCE_THETA,USM_FORCE_VECTOR,USM_FORCE_VECTOR_ADD,USM_FORCE_VECTOR_MULT,USM_FORCE_X,USM_FORCE_Y,USM_RESET,USM_SIM_PAUSED,USM_WATER_DEPTH,WATER_DEPTH," 
+3.143           PMARINEPID_STATUS    pMarinePID      AppErrorFlag=false,Uptime=2.73954,cpuload=0.6373,memory_kb=4548,memory_max_kb=4664,MOOSName=pMarinePID,Publishing="APPCAST,DESIRED_RUDDER,DESIRED_THRUST,MOOS_DEBUG,PMARINEPID_ITER_GAP,PMARINEPID_ITER_LEN,PMARINEPID_STATUS,",Subscribing="APPCAST_REQ,DESIRED_DEPTH,DESIRED_HEADING,DESIRED_SPEED,MOOS_MANUAL_OVERIDE,MOOS_MANUAL_OVERRIDE,NAV_DEPTH,NAV_HEADING,NAV_PITCH,NAV_SPEED,NAV_YAW,PID_VERBOSE,SPEED_FACTOR," 
+3.143           PMARINEPID_STATUS    pMarinePID      AppErrorFlag=false,Uptime=2.73954,cpuload=0.6373,memory_kb=4548,memory_max_kb=4664,MOOSName=pMarinePID,Publishing="APPCAST,DESIRED_RUDDER,DESIRED_THRUST,MOOS_DEBUG,PMARINEPID_ITER_GAP,PMARINEPID_ITER_LEN,PMARINEPID_STATUS,",Subscribing="APPCAST_REQ,DESIRED_DEPTH,DESIRED_HEADING,DESIRED_SPEED,MOOS_MANUAL_OVERIDE,MOOS_MANUAL_OVERRIDE,NAV_DEPTH,NAV_HEADING,NAV_PITCH,NAV_SPEED,NAV_YAW,PID_VERBOSE,SPEED_FACTOR," 

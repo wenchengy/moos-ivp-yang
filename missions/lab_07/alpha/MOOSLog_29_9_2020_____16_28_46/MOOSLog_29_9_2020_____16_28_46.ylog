@@ -1,0 +1,26 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% LOG FILE:       ./MOOSLog_29_9_2020_____16_28_46/MOOSLog_29_9_2020_____16_28_46.ylog
+%% FILE OPENED ON  Thu Jan  1 08:00:00 1970
+%% LOGSTART               16013681261.4
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+4.699711   MOOS_DEBUG           pMarinePID           ** NEW CONTROLLER GAINS ARE ** 
+4.699961   MOOS_DEBUG           pMarinePID           YAW_PID_KP             = 1.200 
+4.700321   MOOS_DEBUG           pMarinePID           YAW_PID_KD             = 0.000 
+4.70043    MOOS_DEBUG           pMarinePID           YAW_PID_KI             = 0.300 
+4.700762   MOOS_DEBUG           pMarinePID           YAW_PID_INTEGRAL_LIMIT = 0.070 
+4.700912   MOOS_DEBUG           pMarinePID           MAXRUDDER              = 100.000 
+4.711559   MOOS_DEBUG           pMarinePID           SPEED_PID_KP           = 1.000 
+4.711641   MOOS_DEBUG           pMarinePID           SPEED_PID_KD           = 0.000 
+4.711691   MOOS_DEBUG           pMarinePID           SPEED_PID_KI           = 0.000 
+4.71175    MOOS_DEBUG           pMarinePID           SPEED_PID_INTEGRAL_LIMIT = 0.070 
+4.711823   MOOS_DEBUG           pMarinePID           MAXTHRUST              = 100.000 
+4.711823   MOOS_DEBUG           pMarinePID           MAXTHRUST              = 100.000 
+4.711823   MOOS_DEBUG           pMarinePID           MAXTHRUST              = 100.000 
+6.98241    MOOS_DEBUG           pHelmIvP             pHelmIvP AllStop: ManualOverride 
+6.98241    MOOS_DEBUG           pHelmIvP             pHelmIvP AllStop: ManualOverride 
+6.98241    MOOS_DEBUG           pHelmIvP             pHelmIvP AllStop: ManualOverride 
+6.98241    MOOS_DEBUG           pHelmIvP             pHelmIvP AllStop: ManualOverride 
+59.66742   MOOS_DEBUG           pMarinePID           pMarinePID Control Is On 
+59.66821   MOOS_DEBUG           pMarinePID           Paused Due To Tardy HELM Input: THRUST=0 
+59.68091   MOOS_DEBUG           pHelmIvP             pHelmIvP AllStop: clear 
+59.68091   MOOS_DEBUG           pHelmIvP             pHelmIvP AllStop: clear 
