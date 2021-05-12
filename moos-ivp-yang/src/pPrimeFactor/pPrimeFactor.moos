@@ -1,0 +1,46 @@
+//------------------------------------------------
+// pPrimeFactor config block
+
+ProcessConfig = ANTLER
+{
+    MSBetweenLaunches = 200
+    Run = MOOSDB    @NewConsole = false
+    Run = pPrimeFactor @ NewConsole = false
+    Run = uTimerScript  @ NewConsole = false
+    Run = pLogger @ NewConsole = false
+}
+
+//------------------------------------------------
+// pPrimeFactor config block
+
+ProcessConfig = pPrimeFactor
+{
+   AppTick   = 10
+   CommsTick = 10
+}
+
+//------------------------------------------------
+// uTimerScript config block
+ProcessConfig = uTimerScript
+{
+   AppTick = 4
+   CommsTick = 4
+   
+   paused = false
+   event = var=NUM_VALUE, val="$(15)", time=0.25
+   event = var=NUM_VALUE, val="$(9)", time=0.50
+   event = var=NUM_VALUE, val="$(7)", time=0.75
+   event = var=NUM_VALUE, val="$(5)", time=1.00
+   reset_max = nolimit
+   reset_time = all-posted
+}
+//------------------------------------------------
+// pLogger config block
+ProcessConfig = pLogger
+{
+   AsyncLog = true
+   WildCardLogging = true
+   WildCardOmitPattern = *_STATUS
+   LOG = PRIME_RESULT @ 0
+   LOG = NUM_VALUE @ 0
+}

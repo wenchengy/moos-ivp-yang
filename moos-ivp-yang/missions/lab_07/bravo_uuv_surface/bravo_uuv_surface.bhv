@@ -1,0 +1,174 @@
+//--------    FILE: double_loiter.bhv   -------------
+
+initialize   DEPLOY = false   
+initialize   RETURN = false
+initialize   LOITER_REGION = west
+initialize   GPS_FIX =false
+//---------------------------------------------
+Behavior = BHV_Loiter
+ {
+   // General Behavior Parameters
+   // ---------------------------
+   name         = loiter_west               // example
+   pwt          = 100                   // default
+   condition = RETURN = false
+   condition = DEPLOY = true
+   condition = LOITER_REGION = west
+   updates      = LOITER_UPDATES        // example
+   duration = 150 
+   endflag = LOITER_REGION = east
+   duration_idle_decay = false
+   perpetual = true
+
+   // Parameters specific to this behavior
+   // ------------------------------------
+        acquire_dist = 10               // default
+      capture_radius = 3                // default  
+     center_activate = false            // default
+           clockwise = false             // default
+         slip_radius = 15               // default
+               speed = 2.5                // default
+       spiral_factor = -2               // default
+
+             polygon = radial:: x=100,y=-75,radius=30,pts=8  // example
+         post_suffix = HENRY                             // example
+
+
+
+        visual_hints = vertex_size  = 1             // default
+        visual_hints = edge_size    = 1             // default
+        visual_hints = vertex_color = dodger_blue   // default
+        visual_hints = edge_color   = white         // default
+        visual_hints = nextpt_color = yellow        // default
+        visual_hints = nextpt_lcolor = aqua         // default
+        visual_hints = nextpt_vertex_size = 5       // default
+        visual_hints = label        = west_loiter   // example
+ }
+
+
+//-------------------------------------------------------
+Behavior = BHV_Loiter
+ {
+   // General Behavior Parameters
+   // ---------------------------
+   name         = loiter_east               // example
+   pwt          = 100                   // default
+   condition = RETURN = false
+   condition = DEPLOY = true
+   condition = LOITER_REGION=east
+   updates      = LOITER_UPDATES        // example
+   duration = 150
+   endflag = LOITER_REGION = west
+   duration_idle_decay = false
+   perpetual = true
+
+   // Parameters specific to this behavior
+   // ------------------------------------
+        acquire_dist = 10               // default
+      capture_radius = 3                // default  
+     center_activate = false            // default
+           clockwise = true             // default
+         slip_radius = 15               // default
+               speed = 2.5                // default
+       spiral_factor = -2               // default
+
+             polygon = radial:: x=160,y=-50,radius=20,pts=8  // example
+         post_suffix = HENRY                             // example
+
+
+
+        visual_hints = vertex_size  = 1             // default
+        visual_hints = edge_size    = 1             // default
+        visual_hints = vertex_color = dodger_blue   // default
+        visual_hints = edge_color   = white         // default
+        visual_hints = nextpt_color = yellow        // default
+        visual_hints = nextpt_lcolor = aqua         // default
+        visual_hints = nextpt_vertex_size = 5       // default
+        visual_hints = label        = east_loiter   // example
+ }
+
+//-----------------------------------------------
+Behavior = BHV_ConstantDepth
+ {
+   // General Behavior Parameters
+   // ---------------------------
+   name         = const_dep_west   // example
+   pwt          = 100                // default
+   updates      = CONST_DEP_UPDATES  // example
+   condition = RETURN = false
+   condition = DEPLOY = true
+   condition = LOITER_REGION=west
+   condition = GPS_FIX = false
+  // Parameters specific to this behavior
+   // ------------------------------------
+            basewidth = 100          // default
+                depth = 30            // default
+   depth_mismatch_var = DEPTH_DIFF   // example
+             duration = no-time-limit          
+            peakwidth = 3            // default
+          summitdelta = 50           // default
+ }
+
+//-----------------------------------------------
+Behavior = BHV_ConstantDepth
+ {
+   // General Behavior Parameters
+   // ---------------------------
+   name         = const_dep_east   // example
+   pwt          = 100                // default
+   updates      = CONST_DEP_UPDATES  // example
+   condition = RETURN = false
+   condition = DEPLOY = true
+   condition = LOITER_REGION=east
+   condition = GPS_FIX = false   
+
+   // Parameters specific to this behavior
+   // ------------------------------------
+            basewidth = 100          // default
+                depth = 10            // default
+   depth_mismatch_var = DEPTH_DIFF   // example
+             duration = no-time-limit          
+            peakwidth = 3            // default
+          summitdelta = 50           // default
+ }
+//---------------------------------------------------
+Behavior = BHV_Timer
+ {
+   // General Behavior Parameters
+   // ---------------------------
+   name         = bhv_timer_gps_fix     
+   condition    = DEPLOY=true    
+   condition    = GPS_FIX =false
+   
+   duration     = 200                
+   endflag      = GPS_FIX=true         
+   updates      = GPS_FIX_UPDATES        
+   perpetual    = true
+   duration_idle_decay = false
+   
+   // Parameters specific to this behavior
+   // ------------------------------------
+   // None
+ }
+
+//-----------------------------------------------------------
+
+
+Behavior = BHV_Timer
+ {
+   // General Behavior Parameters
+   // ---------------------------
+   name         = bhv_timer_at_surface     // default
+   condition    = GPS_FIX = true    // At surface, waiting for GPS fix
+   condition    = NAV_DEPTH=0 
+  
+   duration     = 60                  
+   endflag      = GPS_FIX = false          
+   updates      = AT_SURFACE_UPDATES     // example
+   perpetual    = true
+   duration_idle_decay = false
+
+   // Parameters specific to this behavior
+   // ------------------------------------
+ }
+

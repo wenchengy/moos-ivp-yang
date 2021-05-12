@@ -1,0 +1,61 @@
+//--------    FILE: bravo_loiter.bhv   -------------
+
+initialize   DEPLOY = false
+initialize   RETURN = false
+
+//----------------------------------------------
+Behavior=BHV_Loiter
+{
+  name = bravo_loiter 
+  pwt  = 100
+
+  condition = DEPLOY = true
+  condition = RETURN = false
+  endflag = RETURN = true
+
+  duration = 150
+  updates    = LOITER_UPDATE
+  perpetual  = true
+
+   // ------------------------------------
+      acquire_dist = 10               // default
+      capture_radius = 3                // default
+      center_activate = false            // default
+      clockwise = false             // default
+      slip_radius = 15               // default
+      speed = 2.5                // default
+      spiral_factor = -2               // default
+
+      polygon = radial:: x=100,y=-75,radius=30,pts=8  // 重心、半徑、點數
+      post_suffix = HENRY                             // example
+
+
+        visual_hints = vertex_size  = 1             // default
+        visual_hints = edge_size    = 1             // default
+        visual_hints = vertex_color = dodger_blue   // default
+        visual_hints = edge_color   = white         // default
+        visual_hints = nextpt_color = yellow        // default
+        visual_hints = nextpt_lcolor = aqua         // default
+        visual_hints = nextpt_vertex_size = 5       // default
+        visual_hints = label        = bravo_loiter  // example
+
+}
+
+Behavior=BHV_Waypoint
+{
+  name       = waypt_return
+  pwt        = 100
+  condition  = RETURN = true
+  condition  = DEPLOY = true
+  perpetual  = true
+  updates    = RETURN_UPDATE
+  endflag    = RETURN = false
+  endflag    = DEPLOY = false
+  endflag    = MISSION = complete
+
+           speed = 2.0
+  capture_radius = 2.0
+     slip_radius = 8.0
+          points = 0,0
+}
+
